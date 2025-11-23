@@ -49,9 +49,10 @@ ConnectIn/
 
 
 1)	Create a folder ConnectIn and in that create two folders in it server and client and in server folder create a file server.js
-
+---
 2)	Now, in terminal cd to backend and then enter npm init and then enter : package name: (server) connectin, version: (1.0.0), description: A community platform for students to collaborate, share notes, and grow together, entry point: (index.js) server.js, git repository: https://github.com/Mofiz-Usmani/ConnectIn.git , keywords: mern, students, collaboration, notes, education, author: Mofiz Usmani, license: (ISC) MIT.
-
+---
 3)	Now, write npm i express and configure the express in the server.js file
-
+---
 4)	Then cd to client and write npm create vite@latest and enter then select name react and Javascript then it is ready to use react
+---
